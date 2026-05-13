@@ -7,7 +7,7 @@ Built with React, React Router, TypeScript, Puter.js, and Tailwind CSS.
 ---
 ## 🚀 Live Demo
 
-🔗 [Live Demo](https://resume-wise.netlify.app/)
+🔗 [[Live Demo](https://resume-wise.netlify.app/)](https://resume-wise.netlify.app/)
 
 ---
 
